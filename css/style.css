@@ -1,0 +1,16 @@
+p , h1 ,button{
+    color: #ffffff;
+}
+.btn1{
+    padding: 0.75rem 2rem;
+    border: 1px solid #ffffff;
+    border-radius: 0.2rem;
+    margin-inline: 0.3rem;
+    background-color: blueviolet;
+}
+.stopwatch{
+    background-color: blueviolet;
+    padding: 2rem 4rem;
+    margin: 1rem auto;
+    width: 100%;
+    text-align: center;}
